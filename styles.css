@@ -85,7 +85,7 @@ td{
     position: absolute;
     width: 884;
     height: 448;
-    left: 456px;
+    top: 456px;
 }
 
 span{
@@ -138,10 +138,10 @@ select {
 }
 
 #goal_select {
-    left: 980px;
+    left: 580px;
 }
 #mode_select {
-    left: 1130px;
+    left: 730px;
 }
 
 #options_button {
